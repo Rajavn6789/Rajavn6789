@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajavenkateshwaran
+- 👋 Hi, I’m Rajavenkateshwaran S
 - 👀 I’m currently working on ... React, Electron, Javascript, HTML and CSS. 
 - 💞️ Love to work with ... data visualization, lineage e.t.c 
 - 🌱 I’m currently learning ... Laws of UX.
