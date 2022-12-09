@@ -3,5 +3,5 @@
 - 💞️ Love to work with ... data visualization, lineage e.t.c 
 - 🌱 I’m currently learning ... Laws of UX
 - 🎮 Hobbies ... Simulation car racing, adruino and badminton
-- ✉ How to reach me... rajavn6789@gmail.com
+- ✉ How to reach out to me... rajavn6789@gmail.com
 
